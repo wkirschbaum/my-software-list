@@ -1,2 +1,3 @@
 *** Static site generators
 **** [[https://www.11ty.dev/][11ty]]
+**** [[https://astro.build/][Astro]] - Maybe more than a static site generator
